@@ -1,0 +1,3 @@
+class Frame < ApplicationRecord
+
+end
